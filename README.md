@@ -3,7 +3,7 @@
 
 # 🚀 Bem-vindo ao meu perfil! 🚀
 
-## Olá, eu sou Paulo Brandão
+## Olá, eu sou Beto Brandão
 
 👨‍💻 Hoje trabalho como desenvolvedor full stack e moro no Rio Grande do Sul, Brasil. Tenho 26 anos e uma paixão por tecnologia e desenvolvimento de software.
 
