@@ -1,7 +1,7 @@
 ![image](https://github.com/betobrandaojr/betobrandaojr/assets/59041231/57425807-3e87-4574-8249-3e5a30dcd9c2)
 
 
-# 🚀 Bem-vindo ao meu perfil! 🚀
+# 🚀 Bem-vindo! 🚀
 
 ## Olá, eu sou Beto Brandão
 
