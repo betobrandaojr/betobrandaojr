@@ -46,6 +46,8 @@
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=betobrandaojr&theme=black-ice&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-brand%C3%A3o-%F0%9F%8C%88-4b0456287/) 💼
