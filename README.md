@@ -57,4 +57,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-brand%C3%A3o-%F0%9F%8C%88-4b0456287/) 💼
 
-
