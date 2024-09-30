@@ -49,9 +49,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betobrandaojr&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=betobrandaojr&theme=black-ice&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
 
 ## 📫 Contato
 
