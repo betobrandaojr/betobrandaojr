@@ -49,7 +49,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betobrandaojr&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=betobrandaojr&theme=black-ice&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
-
+![GitHub Snake Dark](https://raw.githubusercontent.com/betobrandaojr/betobrandaojr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/paulo-brand%C3%A3o-%F0%9F%8C%88-4b0456287/) 💼
