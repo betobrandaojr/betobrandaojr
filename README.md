@@ -72,7 +72,6 @@ Acredito no poder transformador da tecnologia e no compartilhamento contínuo de
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betobrandaojr&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=betobrandaojr&theme=black-ice&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)
 
-![snake animation](https://github.com/betobrandaojr/betobrandaojr/blob/output/github-contribution-grid-snake2.svg)
 
 ## 📫 Contato
 
