@@ -1,5 +1,6 @@
-![image](https://github.com/betobrandaojr/betobrandaojr/assets/59041231/57425807-3e87-4574-8249-3e5a30dcd9c2)
+<!-- -![image](https://github.com/betobrandaojr/betobrandaojr/assets/59041231/57425807-3e87-4574-8249-3e5a30dcd9c2)-->
 
+![github](https://github.com/user-attachments/assets/5fbfa8a5-3643-480d-adaf-dc4ca7e6b11c)
 
 # 🚀 Bem-vindo! 🚀
 
