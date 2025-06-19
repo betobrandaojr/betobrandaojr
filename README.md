@@ -15,7 +15,7 @@ Com experiência em diversas stacks, sou especializado em:
 
 **Front-end:** JavaScript, TypeScript, React.js, Next.js e Vue.js
 
-**Banco de Dados:** PostgreSQL, MongoDB e Redis
+**Banco de Dados:** PostgreSQL, MySQL, MongoDB e Redis
 
 **Comunicação & Infraestrutura:** APIs REST, WebSocket, Kafka, Docker, AWS e Kubernetes
 
