@@ -81,9 +81,6 @@ Acredito no poder transformador da tecnologia e no compartilhamento contínuo de
 
 ###
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betobrandaojr&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=betobrandaojr&theme=shadow-purple" alt="GitHub Streak" /></a>
 ## 📫 Contato
 
   <a href="https://www.linkedin.com/in//paulo-brandao-jr//">
