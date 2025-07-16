@@ -71,6 +71,16 @@ Acredito no poder transformador da tecnologia e no compartilhamento contínuo de
 
 <img src="https://raw.githubusercontent.com/betobrandaojr/betobrandaojr/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=betobrandaojr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=betobrandaojr&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betobrandaojr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betobrandaojr&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=betobrandaojr&theme=shadow-purple" alt="GitHub Streak" /></a>
