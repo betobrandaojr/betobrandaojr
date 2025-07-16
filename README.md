@@ -69,7 +69,7 @@ Acredito no poder transformador da tecnologia e no compartilhamento contínuo de
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/betobrandaojr/betobrandaojr/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -78,6 +78,7 @@ Acredito no poder transformador da tecnologia e no compartilhamento contínuo de
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=betobrandaojr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 </div>
+<img src="https://raw.githubusercontent.com/betobrandaojr/betobrandaojr/output/snake.svg" alt="Snake animation" />
 
 ###
 
