@@ -6,12 +6,12 @@
 
 ## Olá, eu sou Beto Brandão
 
-👨‍💻  Atualmente atuo como Desenvolvedor Full Stack Pleno na Creare Sistemas, onde aplico minha expertise técnica e colaborativa para construir soluções robustas e escaláveis.
+👨‍💻  Atualmente atuo como Desenvolvedor Full Stack Sênior na Dafiti, onde aplico minha expertise técnica e colaborativa para construir soluções robustas e escaláveis.
 
 Minha Jornada Tecnológica
 Com experiência em diversas stacks, sou especializado em:
 
-**Back-end:** Go (Golang - minha linguagem preferida), Node.js, NestJS, Java, Kotlin e Spring Boot
+**Back-end:** Go (Golang - minha tecnologia preferida), Node.js, NestJS, Java, Kotlin e Spring Boot
 
 **Front-end:** JavaScript, TypeScript, React.js, Next.js e Vue.js
 
